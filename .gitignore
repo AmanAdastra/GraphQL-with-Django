@@ -1,0 +1,5 @@
+Guides/
+settings.py
+__pycache__/
+migrations/
+graphcode/
